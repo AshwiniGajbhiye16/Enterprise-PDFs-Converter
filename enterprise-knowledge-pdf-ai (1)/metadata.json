@@ -1,0 +1,5 @@
+{
+  "name": "Enterprise Knowledge PDF AI",
+  "description": "A powerful tool that converts unstructured enterprise PDFs into structured, searchable knowledge using Gemini AI for OCR, table extraction, and semantic indexing.",
+  "requestFramePermissions": []
+}
